@@ -3,6 +3,8 @@
 This application can be used for Car Price Prediction based on the the details name ,year,selling_price,km_driven,fuel,seller_type,transmission and Owner from
 the data at www.cardekho.com.
 
+Thanks to Krish Naik for the Guidance..)
+
 ## Dataset : car data.csv
             https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv 
             
@@ -18,4 +20,6 @@ name ,year,selling_price,km_driven,fuel,seller_type,transmission,Owner
 4. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
    Or, open the link https://carpriceprediction02012021.herokuapp.com/
 5. Hurray! That's it.
+
+
 
